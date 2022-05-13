@@ -1,0 +1,133 @@
+Skill:
+  Name: Animals
+  Id: 2
+  Thumbnails:
+    - dog1
+    - lion3
+    - cat3
+  
+New words:
+  - Word: hund
+    Translation: dog
+    Also accepted:
+      - hound
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: katt
+    Synonyms:
+      - kattdjur
+    Translation: cat
+    Also accepted:
+      - feline
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: björn
+    Translation: bear
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: lejon
+    Translation: lion
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: anka
+    Translation: duck
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: häst
+    Translation: horse
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+  - Word: katten
+    Translation: the cat
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: en björn
+    Translation: a bear
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: en lejon
+    Translation: a lion
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: ankan
+    Translation: the duck
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: en häst
+    Translation: a horse
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+  - Word: hunden
+    Translation: the dog
+    Also accepted:
+      - the hound
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+Phrases:
+  - Phrase: Det är en häst
+    Translation: It's a horse
+
+  - Phrase: Max är en hund
+    Translation: Max is a dog
+
+  - Phrase: En anka och en häst
+    Translation: A duck and a horse
+
+Two-way-dictionary:
+  - a: en
+  - an: en
+  - a: ett
+  - an: ett
+  - it's: det är
+  - is: är
+  - and: och
+
+  - bear: björn
+  - cat: katt
+  - dog: hund
+  - duck: anka
+  - horse: häst
+  - lion: lejon
+
+
+
+
+
+
+
